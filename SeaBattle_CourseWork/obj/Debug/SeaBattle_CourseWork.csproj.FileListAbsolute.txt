@@ -1,0 +1,9 @@
+D:\KPI\SeaBattle_CourseWork\SeaBattle_CourseWork\obj\Debug\SeaBattle_CourseWork.Properties.Resources.resources
+D:\KPI\SeaBattle_CourseWork\SeaBattle_CourseWork\obj\Debug\SeaBattle_CourseWork.csproj.GenerateResource.Cache
+D:\KPI\SeaBattle_CourseWork\SeaBattle_CourseWork\bin\Debug\SeaBattle_CourseWork.exe.config
+D:\KPI\SeaBattle_CourseWork\SeaBattle_CourseWork\bin\Debug\SeaBattle_CourseWork.exe
+D:\KPI\SeaBattle_CourseWork\SeaBattle_CourseWork\bin\Debug\SeaBattle_CourseWork.pdb
+D:\KPI\SeaBattle_CourseWork\SeaBattle_CourseWork\obj\Debug\SeaBattle_CourseWork.exe
+D:\KPI\SeaBattle_CourseWork\SeaBattle_CourseWork\obj\Debug\SeaBattle_CourseWork.pdb
+D:\KPI\SeaBattle_CourseWork\SeaBattle_CourseWork\obj\Debug\SeaBattle_CourseWork.MainForm.resources
+D:\KPI\SeaBattle_CourseWork\SeaBattle_CourseWork\obj\Debug\SeaBattle_CourseWork.csprojResolveAssemblyReference.cache
